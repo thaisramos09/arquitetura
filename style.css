@@ -19,3 +19,9 @@ h1{
     color: rgb(255,0,0);
     background-color: rgb(51, 255, 0);
 }
+.imagem{
+    background-color: blanchedalmond;
+    padding: 25px;
+    max-width: 70%;
+    max-height: 70%;
+}
