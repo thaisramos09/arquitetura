@@ -8,3 +8,10 @@ h1{
     text-align: center;
     font-size: 30px;
 }
+
+#paragrafo1{ 
+    color:aqua
+}
+#paragrafo2{
+    background-color:blueviolet
+}
